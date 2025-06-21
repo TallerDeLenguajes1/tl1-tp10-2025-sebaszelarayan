@@ -1,6 +1,7 @@
 
 namespace EspacioTarea;
 
+//Vercion mas simplificada de Tarea para que trabaje solo el json
 public class Tarea
 {
     public int userId { get; set; }
