@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 199,
+    "Name": "slowking",
+    "Height": 20,
+    "Weight": 795
+  },
+  {
+    "Id": 474,
+    "Name": "porygon-z",
+    "Height": 9,
+    "Weight": 340
+  },
+  {
+    "Id": 418,
+    "Name": "buizel",
+    "Height": 7,
+    "Weight": 295
+  }
+]
